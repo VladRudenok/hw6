@@ -1,5 +1,6 @@
 # hw6
 My sixth homework
+
 https://github.com/VladRudenok/hw6/blob/master/Снимок1.PNG
 
 https://github.com/VladRudenok/hw6/blob/master/Снимок2.PNG
